@@ -54,6 +54,9 @@ pip install beautifulsoup4
 
 pip install djangorestframework
 
+python -m pip install Pillow
+
+
 Далее введите в терминал следующие строки:
 
 cd kinopoisk
