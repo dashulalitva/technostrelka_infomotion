@@ -1,0 +1,1 @@
+# technostrelka_infomotion
