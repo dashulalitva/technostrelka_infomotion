@@ -2,4 +2,4 @@ from django.contrib import admin
 from .models import Task, Films
 
 admin.site.register(Task)
-admin.site.register(Films)
+admin.site.register(Films)f
